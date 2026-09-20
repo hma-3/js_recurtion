@@ -1,13 +1,13 @@
 {
   "name": "js_recurtion",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript recursion exercises with Jest tests",
   "license": "ISC",
-  "author": "",
+  "author": "Mariia Hula",
   "type": "commonjs",
-  "main": "script.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "devDependencies": {
     "jest": "^30.5.2"
